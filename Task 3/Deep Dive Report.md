@@ -38,6 +38,8 @@ I wanted the most critical numbers sitting right at the top of the dashboard so 
 
 * **Volume Trend:** The timeline shows massive, aggressive month-over-month growth throughout 2017 before finally leveling off into a steady, high-volume plateau in early 2018.
 
+![Page 1 Dashboard](/images/dashboard_page1.png)
+
 ### Page 2: Operations & Customer Experience
 
 * **The Logistics Gap:** I created a custom `Delivery Status` column to compare the estimated delivery dates against the actual arrival dates. This revealed a 7.87% late delivery rate—a pretty significant operational bottleneck that directly hurts customer retention.
@@ -45,6 +47,8 @@ I wanted the most critical numbers sitting right at the top of the dashboard so 
 * **AOV Drivers:** Credit Cards aren't just the most popular way to pay; they also drive the highest Average Order Value. The ability to pay in installments clearly encourages customers to add more to their carts.
 
 * **Quality Control:** I set up a targeted matrix to act as a quality alert. By explicitly filtering for 1-Star reviews, it isolates the top 5 worst-performing products on the platform so product managers can investigate or delist them immediately.
+
+![Page 2 Dashboard](/images/dashboard_page2.png)
 
 ## 4. UI/UX Design Methodology
 
