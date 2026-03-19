@@ -38,7 +38,6 @@ I wanted the most critical numbers sitting right at the top of the dashboard so 
 
 * **Volume Trend:** The timeline shows massive, aggressive month-over-month growth throughout 2017 before finally leveling off into a steady, high-volume plateau in early 2018.
 
-![Page 1 Dashboard](/images/dashboard_page1.png)
 
 ### Page 2: Operations & Customer Experience
 
@@ -48,7 +47,6 @@ I wanted the most critical numbers sitting right at the top of the dashboard so 
 
 * **Quality Control:** I set up a targeted matrix to act as a quality alert. By explicitly filtering for 1-Star reviews, it isolates the top 5 worst-performing products on the platform so product managers can investigate or delist them immediately.
 
-![Page 2 Dashboard](/images/dashboard_page2.png)
 
 ## 4. UI/UX Design Methodology
 
