@@ -72,4 +72,4 @@ This internship bridged the gap between academic coding and real-world business 
 
 ### Connect with me:
 
-* LinkedIn(https://www.linkedin.com/in/shoaib-akhtar-shaikh-881a17220/)
+* LinkedIn (https://www.linkedin.com/in/shoaib-akhtar-shaikh-881a17220/)
